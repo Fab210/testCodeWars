@@ -1,0 +1,14 @@
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\obj\Debug\netcoreapp3.1\testCodeWars.csproj.AssemblyReference.cache
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\obj\Debug\netcoreapp3.1\testCodeWars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\obj\Debug\netcoreapp3.1\testCodeWars.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\obj\Debug\netcoreapp3.1\testCodeWars.AssemblyInfo.cs
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\obj\Debug\netcoreapp3.1\testCodeWars.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\bin\Debug\netcoreapp3.1\testCodeWars.exe
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\bin\Debug\netcoreapp3.1\testCodeWars.deps.json
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\bin\Debug\netcoreapp3.1\testCodeWars.runtimeconfig.json
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\bin\Debug\netcoreapp3.1\testCodeWars.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\bin\Debug\netcoreapp3.1\testCodeWars.dll
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\bin\Debug\netcoreapp3.1\testCodeWars.pdb
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\obj\Debug\netcoreapp3.1\testCodeWars.dll
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\obj\Debug\netcoreapp3.1\testCodeWars.pdb
+C:\Users\fabio\source\repos\testCodeWars\testCodeWars\obj\Debug\netcoreapp3.1\testCodeWars.genruntimeconfig.cache
